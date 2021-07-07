@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package package com.odedia.graaldemo;
+package com.odedia.graaldemo;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.MediaType;
