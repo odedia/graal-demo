@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.vmware.demos.springonk8s;
+package package com.odedia.graaldemo;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.MediaType;
